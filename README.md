@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/zhk.lab" target="_blank"><img src="https://img.icons8.com/color/40/000000/instagram-new--v1.png"/></a>
 
 ### Interesting facts about me:
-- A young an enthusiast Software engineer and DevOps engineer
+- A young and an enthusiast Software engineer and DevOps engineer
 
 
 ## Stack
