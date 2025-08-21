@@ -1,4 +1,4 @@
-## Welcome to my page! My name is Akzhol
+### Welcome to my page! My name is Akzhol
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h1>Social Media</h1>
