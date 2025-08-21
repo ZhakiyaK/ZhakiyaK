@@ -1,13 +1,13 @@
 ### Welcome to my page! My name is Akzhol
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<h1>Social Media</h1>
+### Social Media
 <a href="https://t.me/ZhakiyaK" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
 <a href="https://vk.com/akzholzhakiya" target="_blank"><img src="https://img.icons8.com/color/40/000000/vk-circled.png"/></a>
 <a href="https://www.instagram.com/zhk.lab" target="_blank"><img src="https://img.icons8.com/color/40/000000/instagram-new--v1.png"/></a>
 
-<h2>Interesting facts about me:</h2>
-<br> A young an enthusiast Software engineer and DevOps engineer
+### Interesting facts about me:
+- A young an enthusiast Software engineer and DevOps engineer
 
 
 ## My stack
