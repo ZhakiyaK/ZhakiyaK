@@ -10,7 +10,7 @@
 - A young an enthusiast Software engineer and DevOps engineer
 
 
-## My stack
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
