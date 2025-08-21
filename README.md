@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,go,docker,docker-swarm,vscode,postgresql,redis,linux,bash,grafana,prometheus,ansible,kubernetes,elk&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,go,docker,vscode,postgresql,redis,linux,bash,grafana,prometheus,ansible,kubernetes,elk&perline=14" />
   </a>
 </p>
